@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:feedpress="https://feed.press/xmlns" version="2.0">
+    <channel>
+        <feedpress:locale>cs</feedpress:locale>
+        <feedpress:newsletterId>tomasahonzanejenophp</feedpress:newsletterId>
+        <atom:link rel="self" href="http://www.tomasvotruba.cz/podcast-rss.xml" />
+
+        <title><![CDATA[Tomáš a Honza nejen o PHP]]></title>
+        <link><![CDATA[https://www.youtube.com/watch?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&v=1BjVVGmSdCw]]></link>
+        <language>cs</language>
+        <copyright><![CDATA[© 2016 Tomáš Votruba and Honza Černý]]></copyright>
+        <description><![CDATA[Povídání o všem možném kolem PHP, komunit, vzdělání a firem u nás.]]></description>
+
+        <itunes:subtitle><![CDATA[Tomáš a Honza si povídají nejen o PHP]]></itunes:subtitle>
+        <itunes:author><![CDATA[Tomáš a Honza]]></itunes:author>
+        <itunes:summary><![CDATA[Povídání o všem možném kolem PHP, komunit, vzdělání a firem u nás.]]></itunes:summary>
+        <itunes:owner>
+            <itunes:name>Tomáš Votruba</itunes:name>
+            <itunes:email>info@tomasvotruba.cz</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://www.tomasvotruba.cz/images/podcast/tomas-a-honza-nejen-o-php.jpg"/>
+        <itunes:category text="Technology"/>
+        <itunes:explicit>clean</itunes:explicit>
+
+                                                                                                                    <item>
+                    <title>#1 - O sebevzdělání, školení, brandovaném obsahu a mentoringu</title>
+                    <enclosure url="http://temp.chemix.cz/tahnop/tomas-a-honza-nejen-o-php-1.mp3" length="65104529" type="audio/mpeg"/>
+                    <guid>http://www.tomasvotruba.cz/blog/2016/08/15/podcast-o-php-a-sebevzdelavani</guid>
+                    <pubDate>Mon, 15 Aug 2016 11:00:00 +0000</pubDate>
+                    <description>S Honzou Černým, který pořádá Nette srazy, nám vadilo, že je u nás nouze o kvalitní a aktuální informace. Jako jsou moderní technologie, srazy, možnosti školení nebo pracovní nabídky a úroveň firem. Chápeme, že ne každý má čas a chuť vést komunity nebo sledovat, co se kde šustne. Proto jsme dali hlavy dohromady a založili podcast. V něm s tebou tyto informace budeme sdílet. 
+</description>
+
+                    <itunes:subtitle>S Honzou Černým, který pořádá Nette srazy, nám vadilo, že je u nás nouze o kvalitní a aktuální informace. Jako jsou moderní technologie, srazy, možnosti školení nebo pracovní nabídky a úroveň firem. Chápeme, že ne každý má čas a chuť vést komunity nebo sledovat, co se kde šustne. Proto jsme dali hlavy dohromady a založili podcast. V něm s tebou tyto informace budeme sdílet. 
+</itunes:subtitle>
+                    <itunes:author><![CDATA[Tomáš a Honza nejen o PHP]]></itunes:author>
+                    <itunes:image href="http://www.tomasvotruba.cz/images/podcast/tomas-a-honza-nejen-o-php.jpg"/>
+                    <itunes:duration>33:39</itunes:duration>
+                </item>
+                                                                                                                                                                                                                                </channel>
+</rss>

@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Tomáš Votruba - Nette a Symfony školení]]></title>
+    <link href="http://www.tomasvotruba.cz/atom.xml" rel="self"/>
+    <link href="http://www.tomasvotruba.cz/"/>
+    <updated>2016-09-27T09:21:43+00:00</updated>
+    <id>http://www.tomasvotruba.cz/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Symfony komunita roste na PéHáPkaře a otevírá se všem PHP programátorům]]></title>
+            <link href="http://www.tomasvotruba.cz/blog/2016/09/26/symfony-komunita-roste-na-pehapkare-a-otevira-se-vsem-php-programatorum"/>
+            <updated>2016-09-26T00:00:00+00:00</updated>
+            <id>http://www.tomasvotruba.cz/blog/2016/09/26/symfony-komunita-roste-na-pehapkare-a-otevira-se-vsem-php-programatorum</id>
+            <content type="html"><![CDATA[<p class="perex">Symfony komunita mění svůj název, jinak vše zůstane stejné jako dosud. <strong>Říkáš si proč?</strong> To se dnes dozvíš. 
+</p>
+
+<p>Od září 2016 měníme název komunity <em>Symfonisti</em> na <em>Péhápkaři</em>.
+Vítáme tak všechny, kteří <strong>jakkoliv dělají s PHP</strong>, v České republice a na Slovensku.</p>
+
+<h2 id="%C4%8Ceho-se-to-t%C3%BDk%C3%A1">Čeho se to týká</h2>
+
+<ul>
+<li>Přejmenovali jsme Twitter na <strong><a href="http://twitter.com/pehapkari">@pehapkari</a></strong></li>
+<li>Twitter hashtag na <a href="http://twitter.com/#pehapkari">#pehapkari</a></li>
+<li>A Facebook stránku na <strong><a href="https://www.facebook.com/pehapkari">Péhápkaři</a></strong></li>
+<li>Symfony srazy budou PHP srazy</li>
+</ul>
+
+<p>Zbyte se dozvíš na webu <em>pehapkari.cz</em>, který bude do konce září.</p>
+
+<p><br>
+<br></p>
+
+<p>Máme potřebu ti to vysvětlit, abys byl v obraze.</p>
+
+<h2 id="3-d%C5%AFvody%2C-pro%C4%8D-vyr%C5%AFst-na-php-komunitu">3 důvody, proč vyrůst na PHP komunitu</h2>
+
+<ul>
+<li>Téma <em>PHP</em> odpovídá obsahu akcí za poslední rok lépe než <em>Symfony</em></li>
+<li>Je to přirozený vývoj úzce zaměřených komunit. Ptali jsme se u nás i v zahraničí</li>
+<li>Chceme podpořit PHP vzdělávání u nás</li>
+</ul>
+
+<p>A teď trochu podrobněji.</p>
+
+<h2 id="1.-t%C3%A9ma-%2Aphp%2A-odpov%C3%ADd%C3%A1-obsahu-akc%C3%AD-za-posledn%C3%AD-rok-l%C3%A9pe-ne%C5%BE-%2Asymfony%2A">1. Téma <em>PHP</em> odpovídá obsahu akcí za poslední rok lépe než <em>Symfony</em></h2>
+
+<p>Během srazů <strong>v Praze</strong> občas zazněly zmatené hlasy: <em>"Proč není na Symfony srazu nic o Symfony?"</em> Mrkli jsme proto na <a href="https://www.youtube.com/channel/UCTBgI1P8xIn2pp2BBHbv5mg/videos">témata přednášek</a> za první rok.</p>
+
+<p><strong>Pouze 6 z 21 přednášek bylo o Symfony</strong>.</p>
+
+<p>Podobné to bylo v Ostravě a Brně. Nemluvilo se jen o Symfony, ale taky o:</p>
+
+<ul>
+<li>Drupalu</li>
+<li>Nette</li>
+<li>SOLID principles</li>
+<li>Wordpressu</li>
+<li>Laravelu</li>
+<li>MySQL</li>
+<li>PostgreSQL</li>
+<li>architektuře</li>
+<li>ReactPHP</li>
+<li>RabbitMQ</li>
+<li>ELK</li>
+<li>PHPStormu</li>
+<li>kontejnerech</li>
+<li>Dotrine</li>
+<li>...</li>
+</ul>
+
+<p>Pojali jsme tedy podezření: "že by lidi zajímal více ekosystém PHP než Symfony"?</p>
+
+<p>Abychom to ověřili, uspořádali jsme s pár přáteli <a href="http://phpprague.cz">PHP konferenci</a>.
+kde bylo téma <em>PHP bez frameworků</em>. I když jsme akci propagovali jen 2-3 týdny dopředu, <strong>dorazilo na ni <a href="http://srazy.info/PHPPrague/6496">přes 120 lidí</a></strong>.
+Včetně bratrů ze Slovenska!</p>
+
+<h2 id="2.-je-to-p%C5%99irozen%C3%BD-v%C3%BDvoj-%C3%BAzce-zam%C4%9B%C5%99en%C3%BDch-komunit">2. Je to přirozený vývoj úzce zaměřených komunit</h2>
+
+<h3 id="zend-meetupy-u%C5%BE-nejsou">Zend meetupy už nejsou</h3>
+
+<p><a href="https://twitter.com/tomasfejfar">Tomáš Fejfar</a> nám řekl, že Zend meetupy na tom byly podobně.
+Témata kolem Zend Frameworku byla brzo vyčerpána, a proto se srazy pořádaly méně častěji a nad jinými tématy. Poslední Zend sraz v Praze byl vlastně -1. Symfony sraz.</p>
+
+<h3 id="posoboty-u%C5%BE-nejsou-jen-o-nette">Posoboty už nejsou jen o Nette</h3>
+
+<p>Stejně tak <a href="https://www.posobota.cz/">Posoboty</a> už nejsou dávno jen o Nette, jak nám potvrdil <a href="https://twitter.com/iamchemix">Honza Černý</a>.
+Témata jsou podobně široká, jako výše uvedený seznam.</p>
+
+<h3 id="a-co-symfony-komunity-v-zahrani%C4%8D%C3%AD">A co Symfony komunity v zahraničí</h3>
+
+<p>Ptali jsme se taky <a href="https://twitter.com/javiereguiluz">Javiera Eguiluze</a>, který dává dohromady <em>Week of Symfony</em>, jak to měli ve Španělsku.</p>
+
+<blockquote>
+  <p>The move that you propose is the exact same thing that happened to every Symfony user group in Spain (except for the Barcelona group). All of them are now PHP Group instead of Symfony Group. I think it makes a lot of sense to be more inclusive to other groups of people: Drupal, Laravel, WordPress, Magento, Nette etc.​</p>
+</blockquote>
+
+<p>Jak to měli v Madridu (3,1 mil. obyvatel) nám napsal <a href="https://twitter.com/aferrandini">Ariel Ferrandini Price</a>:</p>
+
+<blockquote>
+  <p>After two or three years, we realised that we didn’t have too much to talk about Symfony.
+  After 3 years, we have changed from 15 to 1 340 members.
+  Also this will help people to know other technologies and open their minds.</p>
+</blockquote>
+
+<p>A taky přímo <a href="https://twitter.com/tobiasnyholm">Tobiase Nylhoma</a> ze Švédska, když byl v Praze na návštěvě.</p>
+
+<blockquote>
+  <p>We did the same. We kept our topics and pretty much everything, but now we are targeting a larger audience.</p>
+</blockquote>
+
+<h2 id="3.-chceme-podpo%C5%99it-php-vzd%C4%9Bl%C3%A1n%C3%AD-u-n%C3%A1s">3. Chceme podpořit PHP vzdělání u nás</h2>
+
+<p>Ze srazů, newsletterů, školení, vaší zpětné vazby a reakcí <a href="http://nejenophp.cz/">na podcasty</a> vidíme, že vzdělání v PHP je mnohem více žádanější a potřeba, než rozvoj v tom či onom frameworku. Tím, že se téma zredukovalo na frameworky, nemají lidé, kteří žádný framework neumí a chtějí se v PHP vzdělávat a posouvat, prostor.</p>
+
+<p><strong>Něco jako kdyby byla jen základní a vysoká škola a ty 4 volné roky mezi nimi si každý musí nějak zmáknout po svém.</strong></p>
+
+<p>Vyzkoušeli jsme si to i na <a href="https://www.facebook.com/events/129438077476969/">PHP/Symfony školení s Czechitas</a>, že Symfony je moc a PHP stačí.</p>
+
+<h2 id="bonusov%C3%BD-bod%3A-jako-sjednocen%C3%A1-php-komunita-dok%C3%A1%C5%BEeme-divy">Bonusový bod: jako sjednocená PHP komunita dokážeme divy</h2>
+
+<p>Někde jsme slyšeli, že <strong>čeští programátoři jsou ve světě opravdu špička</strong>. Taky si to myslíme a teď vidíme příležitost, 
+jak to dát vědět o něco více. Myslíme si, že je to otázka času. Však za poslední rok u nás vzniklo hned několik komunit a vzdělávacích projektů kolem programování.</p>
+
+<p>Začínáme žít a budeme vidět :)</p>
+
+<h2 id="jak-to-vid%C3%AD%C5%A1-ty%3F">Jak to vidíš ty?</h2>
+
+<p>Tvůj hlas je pro nás také důležitý.</p>
+
+<ul>
+<li>Napiš nám sem do komentářů ↓ </li>
+<li>nebo přijď na <a href="https://www.facebook.com/events/759606430848460/">hospodský PHP sraz ve čtvrtek 29. 9. v Praze</a></li>
+</ul>
+
+<p>Budeme se těšit.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[How to get more than Request in Controller Action]]></title>
+            <link href="http://www.tomasvotruba.cz/blog/2016/09/19/how-to-get-more-than-request-in-controller-action"/>
+            <updated>2016-09-19T00:00:00+00:00</updated>
+            <id>http://www.tomasvotruba.cz/blog/2016/09/19/how-to-get-more-than-request-in-controller-action</id>
+            <content type="html"><![CDATA[<p class="perex">You already know you can get <code>Request</code> object in your controller action. Cool, but there is more.  In <em>Symfony 3.1</em> is new <a href="http://symfony.com/doc/current/controller/argument_value_resolver.html">Action Argument Resolving feature</a>, so you can <strong>get any service you need</strong>. With a bit of work. Today I will show you how. 
+</p>
+
+<h2 id="disclaimer%3A-what-happened-to-controller-constructor-injection%3F">Disclaimer: What happened to controller constructor injection?</h2>
+
+<p><strong>I still prefer constructor injection in controllers</strong>. Are you asking why and how to achieve that in Symfony?</p>
+
+<p>In 3 minutes <a href="/blog/2016/03/10/autowired-controllers-as-services-for-lazy-people">you will find out in my other article</a>.
+I will wait here...</p>
+
+<p><br>
+<br>
+<br></p>
+
+<p>...ok. Now you are probably in one of these 2 groups:</p>
+
+<h3 id="1.-you-want-to-use-constructor-injection-in-controllers%2C-because-you-like-advantages-of-service-design">1. You want to use constructor injection in controllers, because you like advantages of service design</h3>
+
+<p>Stop reading, because this article describes only method injection, which is not so clean. It would add unnecessary complexity to your
+already solid system with no added value.
+So go <a href="https://github.com/Symplify/ControllerAutowire">install Symplify/ControllerAutowire bundle</a> and enjoy your day!</p>
+
+<h3 id="2.-you-consider-constructor-injection-in-controller-too-much-writing-with-not-much-added-value">2. You consider constructor injection in controller too much writing with not much added value</h3>
+
+<p><strong>This is article for you. Keep reading!</strong></p>
+
+<p>To be honest, first I was completely ignoring this second group, but <a href="https://twitter.com/enumag">Jáchym</a> explained me why it's important.</p>
+
+<h2 id="how-named-services-bring-less-writing">How named services bring less writing</h2>
+
+<p>Typical controller in Symfony looks like this:</p>
+
+<pre><code class="language-php">// src/AppBundle/Controller/MeetupController.php
+namespace AppBundle\Controller;
+
+use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+
+class MeetupController extends Controller
+{
+    public function listAction()
+    {
+        $meetupRepository = $this-&gt;get('meetup_repository');
+
+        return $this-&gt;render('meetup/list.twig', [
+            'meetups' =&gt; $meetupRepository-&gt;findAll()
+        ]);
+    }
+}
+</code></pre>
+
+<p>These 2 lines are the most important:</p>
+
+<pre><code class="language-php">$meetupRepository = $this-&gt;get('meetup_repository');
+['meetups' =&gt; $meetupRepository-&gt;findAll()]
+</code></pre>
+
+<h2 id="hidden-vendor-lock">Hidden vendor lock</h2>
+
+<p><strong>How do we know, that <code>meetup_repository</code> service has <code>findAll()</code> method?</strong></p>
+
+<p>You need <strong>3 things</strong> to work at once:</p>
+
+<ul>
+<li>PHPStorm</li>
+<li>Symfony plugin</li>
+<li>correct setup for particular project structure 
+
+<ul>
+<li>Symfony 2 and Symfony 3 have <a href="https://knpuniversity.com/screencast/symfony3-upgrade/new-dir-structure">different directory structure</a>, so plugin has to be setup manually to suit it </li>
+</ul></li>
+</ul>
+
+<h2 id="is-this-really-necessary%3F">Is this really necessary?</h2>
+
+<p>Nope. <strong>Any IDE can autocomplete on object or interface typehint. And without plugins.</strong></p>
+
+<p>But how to get that there? We can use constructor injection with typehints, <strong>but it would be too much writing</strong>.</p>
+
+<p>Compare yourself this:</p>
+
+<pre><code class="language-php">/**
+ * @var MeetupRepository
+ */
+private $meetupRepository;
+
+public function __construct(MeetupRepository $meetupRepository)
+{
+    $this-&gt;meetupRepository = $meetupRepository;
+}
+
+public function listAction()
+{
+    // $this-&gt;meetupRepository;
+}
+</code></pre>
+
+<p>to this:</p>
+
+<pre><code class="language-php">public function listAction()
+{
+    // $this-&gt;get('meetup_repository');
+}
+</code></pre>
+
+<p>I've counted that for you:</p>
+
+<p><strong>It's 11 lines to 1 just to just get a service!</strong></p>
+
+<p>I must admit, this is killer argument <strong>why not to use constructor injection in controllers</strong>.</p>
+
+<h3 id="meet-me-half-way%3F">Meet me half way?</h3>
+
+<p>What if you could inject the service via method?</p>
+
+<pre><code class="language-php">public function listAction(MeetupRepository $meetupRepository)
+{
+    $meetups = $meetupRepository-&gt;findAll();
+    // ...
+}
+</code></pre>
+
+<h3 id="result%3F">Result?</h3>
+
+<ul>
+<li>Now we are down to <strong>0 extra lines</strong> to get a dependency</li>
+<li>We can use <strong>any IDE</strong></li>
+<li>We are <strong>independent on project structure</strong></li>
+</ul>
+
+<p>This all brings greater secondary advantages:</p>
+
+<ul>
+<li>Less stuff to remember, <strong>less complexity</strong>.</li>
+<li><strong>Faster on-boarding</strong> of new programmers.</li>
+<li><strong>More joy</strong> to your daily work. </li>
+</ul>
+
+<p>To make this happened, I made <a href="https://github.com/Symplify/ActionAutowire">Symplify\ActionAutowire bundle</a>.</p>
+
+<h2 id="how-to-enable-controllers-action-autowiring-in-3-steps">How to enable controllers action autowiring in 3 steps</h2>
+
+<h3 id="1.-install-package">1. Install package</h3>
+
+<pre><code class="langauge-yml">composer require symplify/action-autowire
+</code></pre>
+
+<h3 id="2.-register-bundle">2. Register bundle</h3>
+
+<pre><code class="language-php">// app/AppKernel.php
+class AppKernel extends Kernel
+{
+    public function registerBundles()
+    {
+        $bundles = [
+            new Symplify\ActionAutowire\SymplifyActionAutowireBundle(),
+            // ...
+        ];
+    }
+}
+</code></pre>
+
+<h3 id="3.-add-some-dependency-for-your-controller-via-constructor">3. Add some dependency for your controller via constructor</h3>
+
+<pre><code class="language-php">// src/AppBundle/Controller/MeetupController.php
+namespace AppBundle\Controller;
+
+class MeetupController extends Controller
+{
+    public function listAction(MeetupRepository $meetupRepository)
+    {
+        return $this-&gt;render('meetup/list.twig', [
+            'meetups' =&gt; $meetupRepository-&gt;findAll()
+        ]);
+    }
+}
+</code></pre>
+
+<p>And that's it!</p>
+
+<p>For further use, <strong>just check Readme for <a href="https://github.com/Symplify/ActionAutowire">Symplify/ActionAutowire</a>.</strong></p>
+
+<h2 id="made-for-you">Made for you</h2>
+
+<p>Missing some feature or found a bug? Let me know. I want to make this package suit your needs and work as best as possible.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[How to write open-source in PHP 2: Rise value of your package with help of skeleton]]></title>
+            <link href="http://www.tomasvotruba.cz/blog/2016/09/16/how-to-write-open-source-in-php-2-enjoy-skeletons"/>
+            <updated>2016-09-16T00:00:00+00:00</updated>
+            <id>http://www.tomasvotruba.cz/blog/2016/09/16/how-to-write-open-source-in-php-2-enjoy-skeletons</id>
+            <content type="html"><![CDATA[<p class="perex">After creating a repo, we have to fill it with something useful. Our code! Of course, but we also need some <strong>metadata files</strong>. What are they for? Is there some prepared code we can use? What are badges for? <strong>I will answer these today.</strong> 
+</p>
+
+<p>Other programmers might want to use your package. They are usually looking for <strong>long term value</strong>. 
+To estimate the value they need <strong>to answer 4 important questions</strong>.</p>
+
+<ol>
+<li><strong>What is quality of package?</strong> </li>
+<li><strong>Does it solve my issue?</strong></li>
+<li><strong>Is it trustworthy?</strong> </li>
+<li><strong>How well maintained is it?</strong></li>
+</ol>
+
+<p>Even if you know your code is the best and the cleanest, if they don't trust you, they will never use it.</p>
+
+<p>I will let you think about them a little bit. We will relate with specific files to them in second part of this article.</p>
+
+<h2 id="use-solid-skeleton-%E2%86%92-start-solid-brand">Use solid skeleton → start solid brand</h2>
+
+<p>Now, the first step you can positively influence all 4 answer is <strong>using a skeleton</strong> with prepared metadata files.</p>
+
+<p>Guys from <a href="https://thephpleague.com/">The PHP League</a> already did the job for you and created a <a href="https://github.com/thephpleague/skeleton">skeleton</a> package.</p>
+
+<p>From my point of view, <strong>there is too much unnecessary code</strong>, so I've prepared <a href="https://github.com/TomasVotruba/open-source-pakage-skeleton">clear version for you</a>.</p>
+
+<p>Pick one you understand the best.</p>
+
+<h2 id="how-to-get-skeleton-code-to-your-local-repository-in-4-steps">How to get skeleton code to your local repository in 4 steps</h2>
+
+<ul>
+<li>Go to repository on Github and click on <em>Clone or download</em></li>
+<li>Then <em>Download a ZIP</em></li>
+<li>Unzip the zip file to your local repository</li>
+<li><p>And push new files to Github</p>
+
+<pre><code class="language-bash">git add .
+git commit -m "add metadata files"
+git push origin master
+</code></pre></li>
+</ul>
+
+<h3 id="great-for-start%2C-yet-obsolete-later">Great for start, yet obsolete later</h3>
+
+<p>This skeleton is great for start and to learn about metadata files.</p>
+
+<p>But when I create my package now, <strong>I just copy my most recent package I made</strong>, delete <code>/src</code> and <code>/tests</code>
+directories and I'm ready to roll. This is because:</p>
+
+<ul>
+<li>I upgrade my package more often then some <code>skeleton</code> package</li>
+<li>and because my preferences and required code are evolving
+
+<ul>
+<li>e.g. A new PHP version is out, I tune my continuous integration (CI) setup etc.</li>
+</ul></li>
+</ul>
+
+<h2 id="what-is-the-purpose-of-these-files">What is the purpose of these files</h2>
+
+<p>Now we look on every directory and file and how it's related to the 4 key questions.
+Just to remind you, the end user is interested in:</p>
+
+<ol>
+<li>Quality - <strong>What is quality of package?</strong> </li>
+<li>Usability - <strong>Does it solve my issue? Is it easy to use?</strong></li>
+<li>Trust - <strong>Is it trustworthy?</strong> </li>
+<li>Maintenance - <strong>How well maintained is it?</strong></li>
+</ol>
+
+<h3 id="%60%2Fsrc%60-directory"><code>/src</code> directory</h3>
+
+<p><em>Meaning</em></p>
+
+<ul>
+<li>all your PHP source code will go here</li>
+</ul>
+
+<p><span class="arrow-down-on-list">↓</span></p>
+
+<p><em>Profit</em></p>
+
+<ul>
+<li>musthave :) </li>
+</ul>
+
+<h3 id="%60%2Ftests%60-directory"><code>/tests</code> directory</h3>
+
+<p><em>Meaning</em></p>
+
+<ul>
+<li>all tests for your code in <code>/src</code></li>
+<li>basically 1:1 mirror, just every file has <code>Test</code> suffix, e.g.
+
+<ul>
+<li><code>src/Cleaner.php</code></li>
+<li><code>tests/CleanerTest.php</code></li>
+</ul></li>
+</ul>
+
+<p><span class="arrow-down-on-list">↓</span></p>
+
+<p><em>Profit</em></p>
+
+<ul>
+<li><strong>Quality</strong>: tested code is perceived better quality</li>
+<li><strong>Trust</strong>: I don't have to hope that code works, <strong>I can trust the code</strong> </li>
+</ul>
+
+<h3 id="%60.gitattribues%60"><code>.gitattribues</code></h3>
+
+<p><em>Meaning</em></p>
+
+<ul>
+<li>here are all files that are ignored by composer</li>
+<li>when somebody will install your package via <code>composer require you/your-package</code>, they won't get these files downloaded to <code>/vendor</code> directory </li>
+<li>usually its metadata files and tests, because application of end user does not need them</li>
+</ul>
+
+<p><span class="arrow-down-on-list">↓</span></p>
+
+<p><em>Profit</em></p>
+
+<ul>
+<li><strong>Usability</strong>: Since your package save some internet trafic and space on hard drives, it's a bit more usable.</li>
+</ul>
+
+<h3 id="%60.gitignore%60"><code>.gitignore</code></h3>
+
+<p><em>Meaning</em></p>
+
+<ul>
+<li>here are files, that you will have locally but won't be uploaded to the remote git repository</li>
+<li>for packages ignore <code>composer.lock</code>, for applications rather not - on Stackoverflow you can find <a href="http://stackoverflow.com/questions/12896780/should-composer-lock-be-committed-to-version-control">more detailed answer</a></li>
+<li>also <code>/vendor</code> is there, as dependencies are installed by composer</li>
+</ul>
+
+<p><span class="arrow-down-on-list">↓</span></p>
+
+<ul>
+<li><strong>Trust</strong>: Without this I would not trust you know anything about open-source. </li>
+</ul>
+
+<h3 id="%60.scrutinzer.yml%60"><code>.scrutinzer.yml</code></h3>
+
+<ul>
+<li>configuration for <a href="https://scrutinizer-ci.com/">Scrutinizer</a> - code quality and code coverage tool</li>
+<li>to enable it, <a href="https://scrutinizer-ci.com/login">login</a> and new repository
+
+<ul>
+<li>I recommend login via Github, since it adds hooks to your repository </li>
+</ul></li>
+<li>it would be triggered every time your commit to master or create a PR</li>
+</ul>
+
+<p><span class="arrow-down-on-list">↓</span></p>
+
+<div>
+    <img src="/../../../../images/posts/2016/open-source/quality-and-coverage.png" alt="Code quality and coverage badges in README">
+    <br>
+    <em>Code quality and coverage badges in README</em>
+</div>
+
+<p><br></p>
+
+<ul>
+<li><strong>Quality</strong>: Tests are fine, but with 5 % coverage, they have no added value. When you have 90% coverage, you got attention.
+Also there is code quality score from 0 to 10. It tells you about code complexity, which is the most important. <strong>Simple code is easier to maintain and debug</strong>.
+I will show you how to get 10 with bit of practise later.</li>
+</ul>
+
+<h3 id="%60.travis.yml%60"><code>.travis.yml</code></h3>
+
+<ul>
+<li>configuration for <a href="https://travis-ci.org/">Travis</a> - continuous integration tool for tests</li>
+<li>to enable it, go register there and add the repository </li>
+</ul>
+
+<p><span class="arrow-down-on-list">↓</span></p>
+
+<ul>
+<li><strong>Trust</strong>: Do you have test but you don't run them for every change? How can I know the code works? </li>
+</ul>
+
+<h3 id="%60composer.json%60"><code>composer.json</code></h3>
+
+<ul>
+<li>list of dependencies</li>
+<li>also configuration for <a href="https://packagist.org/">Packagist</a>, where you need to add your package, so it can be installed by others</li>
+<li>to enable it, you have to:
+
+<ul>
+<li>go there</li>
+<li>add repository</li>
+<li>go to settings of package, <strong>Integration and services</strong> and <strong>Add Service</strong></li>
+<li>select "Packagist" and add your name and token from your <a href="https://packagist.org/profile/">user profile</a></li>
+</ul></li>
+</ul>
+
+<h3 id="%60license%60"><code>LICENSE</code></h3>
+
+<ul>
+<li>code for license, good to add as every country has different default approach, when this file is missing</li>
+<li><a href="https://opensource.org/licenses/MIT">MIT</a> is the easiest to understand open-source license</li>
+</ul>
+
+<p><span class="arrow-down-on-list">↓</span></p>
+
+<ul>
+<li><strong>Usability</strong>: With licence, I know what I can do with the code. Usually everything.</li>
+</ul>
+
+<h3 id="%60phpunit.xml%60"><code>phpunit.xml</code></h3>
+
+<ul>
+<li>configuration for <a href="https://phpunit.de/">PHPUnit</a> - testing tool</li>
+<li>this can be used either by end user or Travis </li>
+</ul>
+
+<p><span class="arrow-down-on-list">↓</span></p>
+
+<ul>
+<li><strong>Usability</strong>: I can run <code>vendor/bin/phpunit</code> with no manual configuration. It makes life easy.</li>
+</ul>
+
+<h3 id="%60readme%60"><code>README</code></h3>
+
+<ul>
+<li>last but the most important - your welcome article for user</li>
+<li>THE MOST IMPORTANT FILE IN THE PACKAGE!</li>
+<li>Don't worry. We'll talk about writing a good readme later. </li>
+</ul>
+
+<p><span class="arrow-down-on-list">↓</span></p>
+
+<ul>
+<li><strong>Usability</strong>: If I understand the usage, I can rely to my issue I want to solve. </li>
+<li><strong>Trust</strong>: Having code quality, Travis and coverage badges helps to identify the quality of the package.</li>
+</ul>
+
+<p>So that are all files and their purpose.</p>
+
+<h2 id="no-time%21-fast%21-now%21-%E2%86%92-tell-your-story-with-an-image">No time! Fast! Now! → Tell your story with an image</h2>
+
+<p>Today people are rather scanning then reading. That's why badges are so important!</p>
+
+<p>Look on these 2 - what information can we get?</p>
+
+<p><img src="/../../../../images/posts/2016/open-source/badge-2.png" alt="Confusing badge"></p>
+
+<ul>
+<li>Test are passing - <strong>GOOD</strong></li>
+<li>There is stable tag with "?" coverage - <strong>CONFUSING</strong></li>
+<li>Master has 89% test coverage - <strong>GOOD</strong></li>
+<li>Last version is probably 2.5, but not sure. Do they update manually? - <strong>CONFUSING</strong></li>
+<li>Why is master promoted on first place? Should I use that? - <strong>CONFUSING</strong></li>
+</ul>
+
+<p><small>From <a href="https://github.com/doctrine/doctrine2/blob/master/README.md">Doctrine2 repository</a>.</small></p>
+
+<p><img src="/../../../../images/posts/2016/open-source/badge-1.png" alt="Well informative badge"></p>
+
+<ul>
+<li>Test are passing - <strong>GOOD</strong> </li>
+<li>Code quality is 10 - <strong>GOOD</strong></li>
+<li>Code coverage 93% test coverage - <strong>GOOD</strong></li>
+<li>It has 166 downloads. Here it depends on the age of package. → Go check release date! - <strong>GOOD</strong></li>
+<li>It's tagged and has stable version. - <strong>GOOD</strong></li>
+</ul>
+
+<p><small>From <a href="https://github.com/Symplify/ControllerAutowire/blob/master/README.md">Symplify/ControllerAutowire repository</a>.</small></p>
+
+<h2 id="what-have-we-done-today%3F">What have we done today?</h2>
+
+<ul>
+<li>Where to go when <strong>starting a new repository</strong>.</li>
+<li>What is <strong>the purpose meta files</strong>.</li>
+<li>How to <strong>enable online services</strong> that help us to build better code. </li>
+</ul>
+
+<h2 id="what%27s-next%3F">What's next?</h2>
+
+<ul>
+<li>We'll peak on <strong>coding standards</strong>.</li>
+<li>How do <strong>releases</strong> work a what is <strong>semantic versioning</strong>. </li>
+<li>How to <strong>pick min PHP version and package versions in composer</strong>.</li>
+</ul>
+
+<hr />
+
+<h2 id="hate-me%2C-please%21">Hate me, please!</h2>
+
+<p>Did you came across some error or wtf? Is it boring, too long or too vague?
+Just write me a comment. I want to make this series bulletproof and as much as helpful as possible.</p>
+
+<p><strong>You will help thousands of others if you help me to fix one issue.</strong></p>
+
+<p>Thank you!</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[How to write open-source in PHP 1: Create a repository on Github]]></title>
+            <link href="http://www.tomasvotruba.cz/blog/2016/09/09/how-to-write-open-source-in-php-1-create-a-repository"/>
+            <updated>2016-09-09T00:00:00+00:00</updated>
+            <id>http://www.tomasvotruba.cz/blog/2016/09/09/how-to-write-open-source-in-php-1-create-a-repository</id>
+            <content type="html"><![CDATA[<p class="perex">Do you have some code you want to share but you don't know exactly how? Well, writing open-source is complex process. In this series, I'll break it down to <strong>the smallest steps possible</strong>, so that you  can <strong>start your own OS project with zero-knowledge</strong> (OS = open-source). Ready? Let's start with creating a Github repository!
+</p>
+
+<h2 id="meet-github%2C-os%27s-best-friend">Meet Github, OS's best friend</h2>
+
+<p>If not already, <a href="http://github.com">register on Github</a>. It's a place where all open-source lives and breathes. For free!</p>
+
+<p>Then create a repository with <a href="https://github.com/new">New Repository</a> button.</p>
+
+<h3 id="name-repository-well...-well-how%3F">Name repository well... well how?</h3>
+
+<ul>
+<li>name should be explicit</li>
+<li>noun... well pretty <strong>same rules as for class naming</strong></li>
+<li>if you wrap or extend some other service/package, prefix with it</li>
+<li>it's like headline &ndash; everyone should have clue what it does without peaking on readme</li>
+<li>don't be cool... you already are!</li>
+</ul>
+
+<p>Nice theory. What about some examples?</p>
+
+<ul>
+<li><strong>good names</strong>: <em>Datagrid</em>, <em>ImageResizer</em>, <em>DoctrineFilters</em></li>
+<li><strong>bad names</strong>: <em>TomasPackage</em>, <em>DoctrineExtras</em>, <em>Translate</em></li>
+</ul>
+
+<p>That's all you need now. Hit "Create repository" and you are done!</p>
+
+<h2 id="little-book-of-git">Little book of git</h2>
+
+<p>Now we practise first few git lines.</p>
+
+<h3 id="get-to-the-right-place">Get to the right place</h3>
+
+<p>Move to the directory, where you want to host your package locally.
+Open command line or Terminal in PHPStorm. Actually the PHPStorm way will open terminal already in right place. So you don't have to browse directories via <code>cd</code> command.
+And call these commands there.</p>
+
+<p>Do you know git?</p>
+
+<p>Just follow commands, that appeared on your Github repository and <a href="#your-code-is-online">skip to next headline</a>.</p>
+
+<pre><code>echo "# OpenSourcePackageDemo" &gt;&gt; README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:TomasVotruba/OpenSourcePackageDemo.git
+git push -u origin master
+</code></pre>
+
+<h3 id="you-don%27t-understand-those-geek-lines%3F-i%27ll-explain">You don't understand those geek lines? I'll explain</h3>
+
+<p>These commits can be divided into 2 groups:</p>
+
+<ol>
+<li>to setup repository, <strong>just once</strong></li>
+<li>to add some code, <strong>use repeatedly</strong>  </li>
+</ol>
+
+<h4 id="1.-setup-repository">1. Setup repository</h4>
+
+<p>Create an empty repository git repository</p>
+
+<pre><code>git init
+</code></pre>
+
+<p>Add ONLINE address where we want publish your code</p>
+
+<pre><code>git remote add origin git@github.com:TomasVotruba/OpenSourcePackageDemo.git
+</code></pre>
+
+<h4 id="2.-add-some-code">2. Add some code</h4>
+
+<p>Create a file README.md and add "Unziping Package" in it (this is just command line for geeks, I do this manually in my PHPStorm of course)</p>
+
+<pre><code>echo "Unziping Package" &gt;&gt; README.md
+</code></pre>
+
+<p>Tell git to NOTICE this file to be added later</p>
+
+<pre><code>git add README.md
+</code></pre>
+
+<p>Group all NOTICED files to single COMMIT (group of changes)</p>
+
+<pre><code>git commit -m "first commit"
+</code></pre>
+
+<p>Send ALL COMMITS online. Now your local system and Github repository are synced 1:1</p>
+
+<pre><code>git push -u origin master
+</code></pre>
+
+<p><a name="your-code-is-online"></a></p>
+
+<h2 id="your-code-is-online%21">Your code is online!</h2>
+
+<p>Just feel the smell of success.</p>
+
+<hr />
+
+<h2 id="do-you-want-get-deeper-than-that%3F-check-the-checklist-~2-min">Do you want get deeper than that? Check the Checklist (~2 min)</h2>
+
+<p>Fast and clear? Go to <a href="http://phppackagechecklist.com/">PHP Package Checklist</a>, that is easy to read and easy to follow.
+This helped me to integrate workflow to all my packages in the start. I've selected <a href="http://phppackagechecklist.com/#1,2,3,4,6,7,11,12,13">9 most important points</a>.</p>
+
+<p>Some of them I've already mentioned. Other will follow in next 2 articles.</p>
+
+<p>Before creating next package, just go trough it to remind yourself what is most relevant.</p>
+
+<hr />
+
+<h2 id="so-our-first-step-is-behind-us">So our first step is behind us</h2>
+
+<p>What have you learned today?</p>
+
+<ul>
+<li>That OS stands for open-source. You can also find <em>OSS</em> as for <em>open-source software</em>.</li>
+<li>How to <strong>create proper OS repository</strong>.</li>
+<li>How to <strong>add few lines there with git</strong>.</li>
+</ul>
+
+<h2 id="what-is-coming-next%3F">What is coming next?</h2>
+
+<ul>
+<li>How does package skeleton make your work much easier.</li>
+<li>What are <strong>repository meta files</strong>.</li>
+<li>How and why to <strong>use badges</strong>.</li>
+</ul>
+
+<hr />
+
+<h2 id="hate-me%2C-please%21">Hate me, please!</h2>
+
+<p>Did you came across some error or wtf? Is it boring, too long or too vague?
+Just write me a comment. I want to make this series bulletproof and as much as helpful as possible.</p>
+
+<p><strong>You will help thousands of others if you help me to fix one issue.</strong></p>
+
+<p>Thank you!</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Poslechni si podcast o PHP a sebevzdělávání]]></title>
+            <link href="http://www.tomasvotruba.cz/blog/2016/08/15/podcast-o-php-a-sebevzdelavani"/>
+            <updated>2016-08-15T00:00:00+00:00</updated>
+            <id>http://www.tomasvotruba.cz/blog/2016/08/15/podcast-o-php-a-sebevzdelavani</id>
+            <content type="html"><![CDATA[<p class="perex">S Honzou Černým, který pořádá Nette srazy, nám vadilo, že je u nás nouze o kvalitní a aktuální informace. Jako jsou moderní technologie, srazy, možnosti školení nebo pracovní nabídky a úroveň firem. Chápeme, že ne každý má čas a chuť vést komunity nebo sledovat, co se kde šustne. Proto jsme dali hlavy dohromady a založili podcast. V něm s tebou tyto informace budeme sdílet. 
+</p>
+
+<h2 id="tom%C3%A1%C5%A1-a-honza-nejen-o-php---klapka-poprv%C3%A9">Tomáš a Honza nejen o PHP - klapka poprvé</h2>
+
+<p>První díl podcastu <em>Tomáš a <a href="http://blog.honzacerny.com/">Honza</a> nejen o PHP</em> bude o sebevzdělávání, školení, brandovaném obsahu a na závěr jedna nabídka od nás pro vás.</p>
+
+<h2 id="investuj-33-minut%2C-z%C3%ADskej-v%C3%BDcuc-informac%C3%AD">Investuj 33 minut, získej výcuc informací</h2>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM"
+frameborder="0" allowfullscreen name="video"></iframe>
+
+<p>Nebo si <a href="http://temp.chemix.cz/tahnop/tomas-a-honza-nejen-o-php-1.mp3">přehraj mp3</a></p>
+
+<h2 id="m%C3%A1%C5%A1-jen-p%C3%A1r-minut%3F">Máš jen pár minut?</h2>
+
+<p>Vyber si pasáž, která tě zaujme. Stačí kliknout na tučný nadpis a spustíš video v daném čase.</p>
+
+<p>Za jednotlivými body máš pak odkazy na témata, o kterých mluvíme.</p>
+
+<h3 id="%C5%A0kolen%C3%AD-od-firem">Školení od firem</h3>
+
+<ul>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=85&autoplay=true" target="video">
+1:25 - <strong>Školení GITU od Alzy</strong>
+</a>, pořádá <a href="https://www.facebook.com/groups/webdevjs">FB skupina Webdev / JS evening</a></li>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=125&autoplay=true" target="video">
+2:05 - <strong>Symfony Workshop v Plzni od iD-SIGN</strong>
+</a>, <a href="https://www.facebook.com/groups/symfony.komunita/permalink/1591564074471083/">Jaké to bylo?</a></li>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=137&autoplay=true" target="video">
+2:17 - <strong>Komunitní srazy - přeměna přednášek na workshopy</strong>
+</a></li>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=356&autoplay=true" target="video">
+5:56 - <strong>Proč se lidi nehlásí na "CodeCampy"?</strong>
+</a>, <a href="http://codecamp.cz">CodeCamp</a>, <a href="http://www.symfony-skola.cz">Symfony škola</a></li>
+</ul>
+
+<h3 id="open-source">Open-source</h3>
+
+<ul>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=520&autoplay=true" target="video">
+8:40 - <strong>Open-source firem - brandovaný obsah jako forma propagace</strong>
+</a></li>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=614&autoplay=true" target="video">
+10:14 - <strong>První české open-source vlaštovky a jak to ovlivní hiring</strong>
+</a>, <a href="http://www.shopsys-framework.com/">Shopsys framework</a>, <a href="https://github.com/slevomat/coding-standard">Slevomat/CodingStandard</a>, <a href="https://github.com/wundermanpraha/cms">Wunderman CMS</a></li>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=760&autoplay=true" target="video">
+12:40 - <strong>Absence community managerů</strong>
+</a></li>
+</ul>
+
+<h3 id="jak-popularizovat-seberozvoj">Jak popularizovat seberozvoj</h3>
+
+<ul>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=915&autoplay=true" target="video">
+15:15 - <strong>Máš zájem vs. máš možnosti?</strong>
+</a>, <a href="https://blog.codinghorror.com/the-just-in-time-theory">The Just in Theory</a></li>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=1200&autoplay=true" target="video">
+20:00 - <strong>Význam mentoringu v osobní cestě</strong>
+</a></li>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=1265&autoplay=true" target="video">
+21:05 - <strong>Kontinutální, iterativní a specifický rozvoj</strong>
+</a></li>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=1605&autoplay=true" target="video">
+26:45 - <strong>Junior vs. senior? O to vlastně nejde</strong>
+</a></li>
+<li><a href="https://www.youtube.com/embed/1BjVVGmSdCw?list=PLqRXa8pInSUqxMhNhzJsV-1_FZ-YsrSYM&start=1680&autoplay=true" target="video">
+28:00 - <strong>Chceš být mentorován? Máme 2 volná místa</strong>
+</a></li>
+</ul>
+
+<h2 id="pros%C3%ADme-o-zp%C4%9Btnou-vazbu">Prosíme o zpětnou vazbu</h2>
+
+<p>Chceme povídat o tom, co tě pálí a co tě zajímá. Je něco takového? Určitě, tak sem s tím!</p>
+
+<p>Taky se chceme zlepšovat jako podcasteři, takže budeme rádi za zpětnou vazbu. Tady do komentářů nebo k videu.</p>
+
+<p>Díky!</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Forget &quot;autowire&quot; and just use it]]></title>
+            <link href="http://www.tomasvotruba.cz/blog/2016/07/18/forget-autowire-just-use-it"/>
+            <updated>2016-07-18T00:00:00+00:00</updated>
+            <id>http://www.tomasvotruba.cz/blog/2016/07/18/forget-autowire-just-use-it</id>
+            <content type="html"><![CDATA[<p class="perex">Autowiring is a great feature that was added in Symfony 2.8. It moves Dependency Injection pattern to the next level. If you want to use it to its full potential, you still have to add 1 extra line to every service configuration. Today I will show you, how to get rid of that line.
+</p>
+
+<h2 id="when-to-autowire%3F">When to autowire?</h2>
+
+<p>If you use autowiring daily, you might came across this thinking process before you place <code>autowired: true</code> to your config:</p>
+
+<p><em>1) Has this service constructor dependency?</em></p>
+
+<ul>
+<li>No => skip</li>
+<li>Yes => go on</li>
+</ul>
+
+<p><em>2) Is it object?</em></p>
+
+<ul>
+<li>No => skip</li>
+<li>Yes => go on</li>
+</ul>
+
+<p><em>3) Is it unique service type?</em></p>
+
+<ul>
+<li>No => add <code>autowiring_types</code> for specific name to required service, <a href="https://github.com/symfony/symfony/issues/17783">which is pretty difficult at the moment</a></li>
+<li>Yes => autowire</li>
+</ul>
+
+<p><em>4) Has the constructor changed during development?</em></p>
+
+<ul>
+<li><p>Start from point 1.</p></li>
+<li><p>And some more for edge cases.</p></li>
+</ul>
+
+<h2 id="seems-like-function...-could-this-be-automated%3F">Seems like function... Could this be automated?</h2>
+
+<p>You are right! <strong>It can be automated.</strong></p>
+
+<p>This is exactly what <a href="https://github.com/Symplify/DefaultAutowire">Symplify/DefaultAutowire</a> bundle does.</p>
+
+<p>Apart handling feature above for you, it will turn this...</p>
+
+<pre><code class="language-yaml"># app/config/config.yml
+services:
+    price_calculator:
+        class: PriceCalculator
+        autowire: true
+
+    product_repository:
+        class: ProductRepository
+        autowire: true
+
+    user_factory:
+        class: UserFactory
+        autowire: true
+</code></pre>
+
+<p>...into this:</p>
+
+<pre><code class="language-yaml"># app/config/config.yml
+services:
+    price_calculator:
+        class: PriceCalculator
+
+    product_repository:
+        class: ProductRepository
+
+    user_factory:
+        class: UserFactory
+</code></pre>
+
+<h2 id="get-it-done-in-2-steps">Get It Done in 2 steps</h2>
+
+<h3 id="1.-install-package">1. Install package</h3>
+
+<pre><code class="langauge-yml">composer require symplify/default-autowire
+</code></pre>
+
+<h3 id="2.-register-bundle">2. Register bundle</h3>
+
+<pre><code class="language-php">// app/AppKernel.php
+class AppKernel extends Kernel
+{
+    public function registerBundles()
+    {
+        $bundles = [
+            new Symplify\DefaultAutowire\SymplifyDefaultAutowireBundle(),
+            // ...
+        ];
+    }
+}
+</code></pre>
+
+<p>And that's it!</p>
+
+<p>For further use, <strong>just check Readme for <a href="https://github.com/Symplify/DefaultAutowire">Symplify/DefaultAutowire</a>.</strong></p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Filters Pattern in Nette Database]]></title>
+            <link href="http://www.tomasvotruba.cz/blog/2016/06/17/filters-pattern-in-nette-database"/>
+            <updated>2016-06-17T00:00:00+00:00</updated>
+            <id>http://www.tomasvotruba.cz/blog/2016/06/17/filters-pattern-in-nette-database</id>
+            <content type="html"><![CDATA[<p class="perex">You want to delete comments, so your readers won&#039;t see any spam or violent content. But you want to see them in administration. So you would have to create 2 different methods. Today I will show you, how to make only single one.
+</p>
+
+<h2 id="current-way-to-do-this">Current way to do this</h2>
+
+<p>Let's say we have a <code>CommentRepository</code> class, where we put all methods that work with "comment" table.</p>
+
+<p>In it, we have 2 methods:</p>
+
+<ul>
+<li>1 for frontend</li>
+<li>1 for administration</li>
+</ul>
+
+<pre><code class="language-php">namespace App\Repository;
+
+use Nette\Database\Context;
+use Nette\Database\Table\Selection;
+
+
+class CommentRepository
+{
+
+    /**
+     * @var Selection
+     */
+    private $commentTable;
+
+
+    public function __construct(Context $database)
+    {
+        $this-&gt;commentTable = $database-&gt;table('comment');
+    }
+
+
+    /**
+     * Returns only comments, that are not deleted.
+     */
+    public function fetchCommentsForFrontend()
+    {
+        return $this-&gt;commentTable-&gt;where('is_deleted = ?', FALSE)
+            -&gt;fetchAll();
+    }
+
+
+    public function fetchCommentsForAdministration()
+    {
+        return $this-&gt;commentTable-&gt;fetchAll();
+    }
+
+}
+</code></pre>
+
+<p>And <strong>decide manually</strong>, where to use <code>fetchCommentsForFrontend()</code> and where to use <code>fetchAllCommentsForAdministration()</code>.</p>
+
+<p>This approach is bad practise, because it will eventually <strong>make your every repository class double its size</strong>.</p>
+
+<p>No need for that! This has been already solved somewhere else.</p>
+
+<p>Do you know Doctrine Filters? No? Go check <a href="/blog/2016/04/30/decouple-your-doctrine-filters">this short article to get the clue</a>. I'll wait here.</p>
+
+<h2 id="soft-delete-filter---in-theory">Soft delete filter - in theory</h2>
+
+<p>In short, with filters you can modify any query. In our case:</p>
+
+<ul>
+<li>detect if the query is for "comment" table</li>
+<li>detect if we are frontend or backend</li>
+<li>if frontend, add where "is_deleted=0" condition to hide deleted comment</li>
+</ul>
+
+<p>This will influence <strong>every query for "comment" table</strong>.
+So you can be sure you'll never forget to add the condition.</p>
+
+<h2 id="show-me-the-code">Show me the code</h2>
+
+<p>There is not much to talk about, because filters are made to be simple. So here is filter:</p>
+
+<pre><code class="language-php"># app/Database/Filter/SoftDeletableFilter.php
+
+namespace App\Database\Filter;
+
+use Nette\Application\Application;
+use Nette\Database\Table\Selection;
+use Zenify\NetteDatabaseFilters\Contract\FilterInterface;
+
+
+class SoftDeletableFilter implements FilterInterface
+{
+
+    public function __construct(Application $application)
+    {
+        $this-&gt;application = $application;
+    }
+
+
+    public function applyFilter(Selection $selection)
+    {
+        // 1. apply only to "comment" table
+        $tableName = $selection-&gt;getName();
+        if ($tableName !== 'comment') {
+            return;
+        }
+
+        // 2. skip for admin presenters
+        // add your custom method, that detects admin presenter via name or class inheritance
+        if ($this-&gt;isAdminPresenter($this-&gt;application-&gt;getPresenter())) {
+            return;
+        }
+
+        // 3. show only visible (not deleted) comments
+        $selection-&gt;where('is_deleted = ?', FALSE);
+    }
+
+}
+</code></pre>
+
+<p>And that's all.</p>
+
+<p>These filters are possible in Nette\Database only thanks to <a href="https://github.com/Zenify/NetteDatabaseFilters">Zenify/NetteDatabaseFilters</a> package.</p>
+
+<p>Do you want to try it for yourself? Let's go.</p>
+
+<h2 id="your-first-filter-in-4-steps">Your First Filter in 4 steps</h2>
+
+<h3 id="1.-install-package">1. Install package</h3>
+
+<pre><code class="language-bash">composer require zenify/nette-database-filters
+</code></pre>
+
+<h3 id="2.-register-extension">2. Register Extension</h3>
+
+<pre><code class="language-yaml"># app/config/config.neon
+extensions:
+    - Zenify\NetteDatabaseFilters\DI\NetteDatabaseFiltersExtension
+</code></pre>
+
+<h3 id="3.-create-your-filter">3. Create your filter</h3>
+
+<p>The one above...</p>
+
+<h3 id="4.-register-it-as-a-service">4. Register it as a service</h3>
+
+<pre><code class="language-yaml"># app/config/config.neon
+services:
+    - App\Database\Filter\SoftDeletableFilter
+</code></pre>
+
+<p>And that's it! Now your filter will be reflected in whole application.</p>
+
+<p>So you can reduce your repository code and use <code>fetchComments()</code> in all places.</p>
+
+<pre><code class="language-php"># app/Repository/CommentRepository.php
+
+namespace App\Repository;
+
+use Nette\Database\Context;
+use Nette\Database\Table\Selection;
+
+
+class CommentRepository
+{
+
+    /**
+     * @var Selection
+     */
+    private $commentTable;
+
+
+    public function __construct(Context $database)
+    {
+        $this-&gt;commentTable = $database-&gt;table('comment');
+    }
+
+
+    public function fetchComments()
+    {
+        return $this-&gt;commentTable-&gt;fetchAll();
+    }
+
+}
+</code></pre>
+
+<p>For further use just <strong>check Readme for <a href="https://github.com/Zenify/NetteDatabaseFilters#nette-database-filters">Zenify/NetteDatabaseFilters</a></strong>.</p>
+
+<h2 id="protip-for-multiple-tables-with-the-same-column%21">Protip for multiple tables with the same column!</h2>
+
+<p>What if you have <strong>multiple tables with "is_deleted" column</strong>? "comment", "article", "page" table... maybe "banner", "user" in the furture.</p>
+
+<ul>
+<li>Do you have to create filter for every one of them? <strong>No.</strong></li>
+<li><p>Do you have to name them all in the filter class? <strong>No.</strong></p></li>
+<li><p>Do you need to check the column presence only? <strong>YES!</strong></p></li>
+</ul>
+
+<p>And I will show you how do it:</p>
+
+<pre><code class="language-php"># app/Database/Filter/SoftDeletableFilter.php
+
+// ...
+
+public function applyFilter(Selection $selection)
+{
+    if (!$this-&gt;isSoftdelable($selection)) {
+        return;
+    }
+
+    // ... condition code
+}
+
+/**
+ * @return bool
+ */
+private function isSoftdelable(Selection $selection)
+{
+    $selectionToCheck = clone $selection;
+    return $selectionToCheck-&gt;fetch()
+        -&gt;offsetExists('is_deleted');
+}
+</code></pre>
+
+<p>Pretty neat, huh?</p>
+
+<h2 id="what-have-you-learned-today%3F">What Have You Learned Today?</h2>
+
+<ul>
+<li>that Database Filters is a pattern for decorating query of specific table</li>
+<li>that Nette Database can implement this pattern in a form of service</li>
+<li>that you can add filter via simple service with <a href="https://github.com/Zenify/NetteDatabaseFilters">Zenify/NetteDatabaseFilters</a></li>
+</ul>
+
+<p>If you have some tips how to this simpler or want to share your experience with filters, just let me know bellow.</p>
+
+<p>Happy coding!</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Decouple Your Doctrine Filters]]></title>
+            <link href="http://www.tomasvotruba.cz/blog/2016/04/30/decouple-your-doctrine-filters"/>
+            <updated>2016-04-30T00:00:00+00:00</updated>
+            <id>http://www.tomasvotruba.cz/blog/2016/04/30/decouple-your-doctrine-filters</id>
+            <content type="html"><![CDATA[<p class="perex">Doctrine filters are powerful tool. Yet their registration and management are bit overcomplicated. Today I will show you how to decouple them to standalone services that can take care of everything you need.</p>
+
+<h2 id="standard-process-to-enable-filter">Standard Process to Enable Filter</h2>
+
+<p>If you don't know Doctrine Filters, <a href="https://knpuniversity.com/">KnpUniversity</a> has very nice, short and funny tutorial about them. <a href="https://knpuniversity.com/screencast/doctrine-queries/filters">Go check it</a>, I'll wait here...</p>
+
+<blockquote>
+  <p>Are you busy and smart? Just check <a href="http://www.slideshare.net/rosstuck/extending-doctrine-2-for-your-domain-model-13257781/13">slides 13 to 31</a> from <a href="https://twitter.com/rosstuck">@RossTuck</a>'s presentation about cool features of Doctrine.</p>
+</blockquote>
+
+<p>So now you know, that to enable filter in Symfony you have to:</p>
+
+<ol>
+<li>register them manually under DoctrineBundle configuration (in one global config file <code>app/config/config.yml</code>)</li>
+<li>get Doctrine's EntityManager in Controller</li>
+<li>get filter by it's name previously defined in <code>app/config/config.yml</code></li>
+<li>enable it</li>
+</ol>
+
+<p>You have to do all these steps just to turn something on. Imagine you'd have to do this for every Voter, Command or EventSubscriber.</p>
+
+<h2 id="could-we-make-it-easier%3F">Could We Make It Easier?</h2>
+
+<p>In the tutorial from KnpUniversity, there is way to skip enabling filters in controller - by creating own <a href="https://knpuniversity.com/screencast/doctrine-queries/filters#enabling-a-filter-globally">BeforeRequestListener</a>.</p>
+
+<p>It's quite nice, but it just moves all these steps from controller's responsibility somewhere else. So you have to enable them again, just in different place.</p>
+
+<p>Let's say this is fine enough. <strong>But what about modular applications with own per module filters?</strong> Not so easy.</p>
+
+<h2 id="minimal-viable-product">Minimal Viable Product</h2>
+
+<p>For better understanding what is really important, let's break down the purpose of the filter.</p>
+
+<ul>
+<li>it's a <strong>piece of code in class that must inherit from <code>Doctrine\ORM\Query\Filter\SQLFilter</code></strong></li>
+<li>it <strong>decorates SQL queries</strong> with custom code</li>
+<li><strong>sometimes it's conditional</strong> - you want it to be enabled or disabled</li>
+</ul>
+
+<p>That's all it does. Everything else is just syntax sugar, glue code or entry point to work with them.</p>
+
+<p>Saying that, we can <strong>get rid of Controllers, Subscribers, DoctrineBundle, <code>app/config/config.yml</code></strong> and yet still make use of them.</p>
+
+<h2 id="decouple-your-doctrine-filter...-to-service">Decouple Your Doctrine Filter... to Service</h2>
+
+<p>When we remove everything we don't need, we could end up with simple service:</p>
+
+<pre><code class="language-php">use Doctrine\ORM\Mapping\ClassMetadata;
+use Symplify\DoctrineFilters\Contract\Filter\FilterInterface;
+
+final class ActiveFilter implements FilterInterface
+{
+    /**
+     * {@inheritdoc}
+     */
+    public function addFilterConstraint(ClassMetadata $entity, $alias)
+    {
+        return "$alias.active = 1";
+    }
+}
+</code></pre>
+
+<p>And register it as service:</p>
+
+<pre><code class="language-yaml"># Resoureces/config.yml
+services:
+    module.softdeletable_filter:
+        class: SoftdeletableFilter
+</code></pre>
+
+<p>That's all we really need to do.</p>
+
+<h2 id="decoupling-of-doctrine-filter-in-4-steps">Decoupling of Doctrine Filter in 4 steps</h2>
+
+<p>This is already possible thanks to <a href="https://github.com/Symplify/ModularDoctrineFilters">Symplify/ModularDoctrineFilters</a> package.</p>
+
+<p>Let's try it together!</p>
+
+<h3 id="1.-install-package">1. Install package</h3>
+
+<pre><code class="language-bash">composer require symplify/modular-doctrine-filters
+</code></pre>
+
+<h3 id="2.-register-bundle">2. Register Bundle</h3>
+
+<pre><code class="language-php">// app/AppKernel.php
+class AppKernel extends Kernel
+{
+    public function registerBundles()
+    {
+        $bundles = [
+            new Symplify\ModularDoctrineFilters\SymplifyModularDoctrineFiltersBundle(),
+            // ...
+        ];
+    }
+}
+</code></pre>
+
+<h3 id="3.-create-service">3. Create Service</h3>
+
+<pre><code class="language-php">// src/SomeBundle/Doctrine/Filter/SoftdeletableFilter.php
+namespace SomeBundle\Doctrine\Filter;
+
+use Symplify\DoctrineFilters\Contract\Filter\FilterInterface;
+
+final class SoftdeletableFilter implements FilterInterface
+{
+    /**
+     * {@inheritdoc}
+     */
+    public function addFilterConstraint(ClassMetadata $entity, $alias)
+    {
+        if ($entity-&gt;getReflectionClass()-&gt;hasProperty('isDeleted')) { 
+            // or another condition to integrate enable/disable process
+            return "$alias.isDeleted = 0";
+        }
+        return '';
+    }
+}
+</code></pre>
+
+<blockquote>
+  <p>This could be filter for <a href="https://github.com/KnpLabs/DoctrineBehaviors#softDeletable">Softdeletable</a> from <a href="https://github.com/KnpLabs/DoctrineBehaviors">DoctrineBehaviors</a>.</p>
+</blockquote>
+
+<h3 id="4.-register-it-as-a-service-to-your-module">4. Register it as a service to your module</h3>
+
+<pre><code class="language-yaml"># src/SomeBundle/Resources/config/services.yml
+services:
+    some_module.softdeletable_filter:
+        class: SomeBundle\Doctrine\Filter\SoftdeletableFilter
+</code></pre>
+
+<p>And that's it! Now your filter will be reflected in whole application.</p>
+
+<p>For further use <strong>just check Readme for <a href="https://github.com/Symplify/ModularDoctrineFilters">Symplify/ModularDoctrineFilters</a></strong>.</p>
+
+<h2 id="what-have-you-learned-today%3F">What Have You Learned Today?</h2>
+
+<ul>
+<li>that Doctrine Filters can decorate every query in your application from single place</li>
+<li>that Doctrine Filter is basically just an object that might add some code to query</li>
+<li><strong>that you can add filter via simple service with <a href="https://github.com/Symplify/ModularDoctrineFilters">Symplify/ModularDoctrineFilters</a></strong>   </li>
+</ul>
+
+<p>If you have some tips how to this simpler or want to share your experience with filters, just let me know bellow.</p>
+
+<p>Happy coding!</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Autowired controllers as services for lazy people]]></title>
+            <link href="http://www.tomasvotruba.cz/blog/2016/03/10/autowired-controllers-as-services-for-lazy-people"/>
+            <updated>2016-03-10T00:00:00+00:00</updated>
+            <id>http://www.tomasvotruba.cz/blog/2016/03/10/autowired-controllers-as-services-for-lazy-people</id>
+            <content type="html"><![CDATA[<p class="perex">With new autowiring feature in Symfony 2.8+, it is now easier to manage dependencies for services. But what about for controllers? Unfortunately, there are 3 annoying steps you have to do. Today I will show you, how to reduce them to 0.</p>
+
+<h3 id="disclaimer%3A-why-even-use-controllers-as-services%3F">Disclaimer: Why even use controllers as services?</h3>
+
+<p><strong>The goal of this article is not to discuss pro and cons of "controller as service" (further CAS) approach</strong>. If you 
+haven't decided yet to use CAS, I recommend checking these articles:</p>
+
+<ul>
+<li><a href="https://knpuniversity.com/screencast/question-answer-day/controllers-services">Symfony2: Make my Controllers Services?</a> [released 2013 by KNPUniversity]</li>
+<li><a href="http://php-and-symfony.matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers">Symfony2: How to create framework independent controllers?</a> [released 2014]</li>
+<li><a href="http://richardmiller.co.uk/2011/04/15/symfony2-controller-as-service">Symfony2: Controller as Service</a> [released 2011]</li>
+</ul>
+
+<p><br></p>
+
+<p>But now, back to the topic.</p>
+
+<h2 id="autowire-service%3F-easy%21">Autowire service? Easy!</h2>
+
+<p>With <a href="https://dunglas.fr/2015/10/new-in-symfony-2-83-0-services-autowiring/">autowire feature</a>, managing dependencies for services is now as simple as:</p>
+
+<pre><code class="language-yaml">services:
+    post.publisher:
+        class: PostPublisher
+        autowire: true # all you got to do is add this line
+</code></pre>
+
+<h2 id="autowire-controller%3F-hell%21">Autowire controller? Hell!</h2>
+
+<p>Managing dependencies for controllers in same way is complicated. To apply the same effect, you have to make following 3 steps:</p>
+
+<ol>
+<li><p>Register controller manually as service to the config</p>
+
+<pre><code class="language-yaml"># app/config/services.yml
+services:
+    post_controller: # you have to use this name everywhere, so pick it wisely
+        class: PostController
+        autowire: true
+</code></pre></li>
+<li><p>Add <code>@Route</code> annotation with service name</p>
+
+<pre><code class="language-php">// src/AppBundle/Controller/PostController.php
+namespace AppBundle\Controller\PostController;
+
+use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
+
+/**
+ * @Route(service="post_controller") # watch for typo here!
+ */
+class PostController
+{
+    public function listAction()
+    {
+    }
+}
+</code></pre>
+
+<p>or route using service name:</p>
+
+<pre><code class="language-yaml"># app/config/routing.yml
+post_list:
+    path: /post-list
+    defaults: 
+        _controller: post_controller:listAction
+        # and not bundle like approach
+        # _controller: AppBundle:Post:list
+</code></pre>
+
+<blockquote>
+  <p>This difference is so difficult to spot, that it <a href="http://stackoverflow.com/a/27221394/1348344">created question on StackOverflow</a>.</p>
+</blockquote></li>
+<li><p>Finally, you have to use service name and single colon for referring:</p>
+
+<pre><code class="language-php">// any controller
+$this-&gt;forward('post_controller:listAction'));
+</code></pre></li>
+</ol>
+
+<blockquote>
+  <p>There is <a href="http://stackoverflow.com/questions/31366074/how-exactly-can-i-define-a-controller-as-service-using-annotations/31366589#31366589">nice answer on StackOverflow explaining with more details</a>.</p>
+</blockquote>
+
+<p>This process is exhausting already and difficult to remember.</p>
+
+<h3 id="did-you-make-it%3F-here-comes-much-deeper-hell">Did you make it? Here comes much deeper hell</h3>
+
+<p>Even if you do manage to finish these steps, <strong>these issues will appear</strong>:</p>
+
+<ul>
+<li><p><a href="http://stackoverflow.com/questions/33857659/symfony-autowiring-services-with-the-controller">drawback</a> of FrameworkBundle, when it tries to autowire controller 
+<img src="http://i.stack.imgur.com/r4cBD.png"></p></li>
+<li><p>it's complicated to apply constructor dependency injection for extended 3rd party controllers (Sonata, FOS...), due to missing step 2 and 3 (that were mentioned above) and the "bundle naming" inside the bundle's code</p></li>
+</ul>
+
+<h3 id="is-there-some-way-back-from-hell-to-heaven%3F">Is there some way back from hell to heaven?</h3>
+
+<p>Author of autowiring feature and Symfony core contributor Kévin Dunglas <a href="https://github.com/symfony/symfony/pull/16863#issuecomment-162221353">sees similar problem</a> and <a href="https://dunglas.fr/2016/01/dunglasactionbundle-symfony-controllers-redesigned/">proposes solution with ADR pattern</a>. I think it's the right direction, but it bends controllers too much.</p>
+
+<p>But my goal is to keep controllers the same way they are now, and just add support for...</p>
+
+<h2 id="autowiring-in-controllers">Autowiring in controllers</h2>
+
+<p>So I made <a href="https://github.com/Symplify/ControllerAutowire">Symplify\ControllerAutowire</a> bundle, that solves all problems that are mentioned above by following steps:</p>
+
+<ul>
+<li>find controllers in <code>/src</code> directory</li>
+<li>register them as services</li>
+<li>autowire its constructors</li>
+<li>handle routing properly for both "service name" and "bundle name" approaches</li>
+<li>and all on compile time</li>
+</ul>
+
+<p>Let's try it together.</p>
+
+<h3 id="1.-install-package">1. Install package</h3>
+
+<pre><code class="langauge-yml">composer require symplify/controller-autowire
+</code></pre>
+
+<h3 id="2.-register-bundle">2. Register bundle</h3>
+
+<pre><code class="language-php">// app/AppKernel.php
+class AppKernel extends Kernel
+{
+    public function registerBundles()
+    {
+        $bundles = [
+            new Symplify\ControllerAutowire\SymplifyControllerAutowireBundle(),
+            // ...
+        ];
+    }
+}
+</code></pre>
+
+<h3 id="3.-add-some-dependency-for-your-controller-via-constructor">3. Add some dependency for your controller via constructor</h3>
+
+<pre><code class="language-php">// src/AppBundle/Controller/DefaultController.php
+namespace AppBundle\Controller;
+
+use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
+use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Symfony\Component\EventDispatcher\EventDispatcherInterface;
+use Symfony\Component\HttpFoundation\Request;
+
+class DefaultController extends Controller
+{
+    /**
+     * @var EventDispatcherInterface
+     */
+    private $eventDispatcher;
+
+    public function __construct(EventDispatcherInterface $eventDispatcher)
+    {
+        $this-&gt;eventDispatcher = $eventDispatcher;
+    }
+
+    /**
+     * @Route("/", name="homepage")
+     */
+    public function indexAction(Request $request)
+    {
+        $this-&gt;eventDispatcher-&gt;dispatch('someEvent');
+
+        return $this-&gt;render('default/index.html.twig', [
+            // ...
+        ]);
+    }
+}
+</code></pre>
+
+<p>And that's it!</p>
+
+<p>For further use, <strong>just check Readme for <a href="https://github.com/Symplify/ControllerAutowire">Symplify/ControllerAutowire</a>.</strong></p>
+
+<h2 id="best-practise-solution---proven-in-many-php-projects">Best practise solution - proven in many PHP projects</h2>
+
+<p>Check them out:</p>
+
+<ul>
+<li><a href="nette.org">Nette</a> with <a href="https://github.com/nette/application/pull/56">presenter autowire</a>, based on <a href="https://filip-prochazka.com/blog/presentery-v-di-containeru">Filip Prochazka's extension</a></li>
+<li><a href="http://php-di.org/doc/frameworks/silex.html#controllers-as-services">PHP-DI</a></li>
+<li><a href="https://laravel.com/docs/5.0/controllers#dependency-injection-and-controllers">Laravel with constructor injection support for controllers</a></li>
+<li>and <a href="https://github.com/J7mbo/Aurex">Auryn</a> that adds this feature to Silex </li>
+</ul>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Kolik lidí je potřeba k vytvoření jedné komunity?]]></title>
+            <link href="http://www.tomasvotruba.cz/blog/2016/03/03/kolik-lidi-je-potreba-k-vytvoreni-jedne-komunity"/>
+            <updated>2016-03-03T00:00:00+00:00</updated>
+            <id>http://www.tomasvotruba.cz/blog/2016/03/03/kolik-lidi-je-potreba-k-vytvoreni-jedne-komunity</id>
+            <content type="html"><![CDATA[<p class="perex">CEO České Symfony komunity. Vedoucí, evangelista, ten co dělá tu Symfony komunitu... Tak mi mnozí z vás občas říkají. Já se však pořád nemůžu zbavit pocitu, že za Symfony komunitou, tak jak ji známe v její dnešní podobě, nejsou vidět ty desítky dalších tváří, na kterých to celé stojí. Tváří lidí, kteří k ní přispěli malým či velkým dílem, kteří mě nakopli, a kteří mi pomáhají víc, než si sami vůbec uvědomují. Bez nich by tady totiž dnes nebylo vůbec nic. A proto bych vám o nich dnes rád řekl.</p>
+
+<p>Po prvním pražském srazu v Jobs.cz už to začalo vypadat, že tu naše komunita je, a že se jí daří. Že za tím nestojím jen já, ale dalších 15-20 lidí, to už vidět není. Co všechno tomu předcházelo a o jakých lidech, kteří přinesli Symfony k nám, tady mluvím?</p>
+
+<h2 id="jak-to-v%C5%A1echno-za%C4%8Dalo%3F">Jak to všechno začalo?</h2>
+
+<p><a href="https://filip-prochazka.com">Filip Procházka</a> integroval Symfony\Console do Nette. Kdyby nebylo Filipa, tak se se Symfony nikdy nepotkám.</p>
+
+<p><em>Díky Ti, Filipe, žes mi pomohl udělat první krok!</em></p>
+
+<p><br></p>
+
+<p>Když jsem pak přebíral roční službu maintainera <a href="https://github.com/ApiGen">ApiGenu</a>, troufale jsem se odvážil přepsat custom CLI skript na Symfony\Console. Příjemně mě překvapilo, že jsem ji stihl celou nastudovat během jedné cesty autobusem z Prahy do Liberce.</p>
+
+<p><em>Díky vám <a href="https://twitter.com/kukulich">Jardo Hanslíku</a> a <a href="https://twitter.com/andrewsville">Ondřeji Nešpore</a> za předání tohohle projektu!</em></p>
+
+<p><br></p>
+
+<p>Pak jsem začal hledat "Symfony" na českém Twitteru a spontánně tweetnul 3 lidem, že bych se s nimi rád potkal. Na jaře 2015 se mi ozval programátor stojící za stvoření skrz.cz, <a href="http://motvicka.cz/">Adam Motvička</a>. Potkali jsme se na <a href="https://www.facebook.com/events/848674628536913">otvíračce Brněnského Hubu</a>, kde mi řekl, že taky plánuje zrealizovat první setkání českých Symfony programátorů. Já už jsem nad tím uvažoval dlouho a tohle mě pořádně nakoplo k tomu, přejít konečně od vymýšlení k realizaci.</p>
+
+<p><em>Díky Adame za vykopnutí mě mimo komfortní zónu!</em></p>
+
+<p><br></p>
+
+<p>Během dubna 2015 jsem pak napsal <a href="https://twitter.com/mayermartin">Martinovi Mayerovi</a> a <a href="https://twitter.com/hasonm">Martinovi Hasoňovi</a>. Lidem, které jsem považoval za české Symfony špičky. Martin Hasoň přispíval už léta do Symfony na Githubu. K tomu se přidal <a href="https://twitter.com/spicimedved">Petr Jaša</a>, který s ním <a href="https://www.webuni.cz/">Symfony školí</a>.</p>
+
+<p><em>Díky chlapi za pomalý rozjezd a 3 minisrazy ve Falku, kde jsme si to mohli zkusit v malém a položit spolu základní kámen Symfony komunity!</em></p>
+
+<h2 id="bc-break---z-brna-do-prahy">BC break - z Brna do Prahy</h2>
+
+<p>Pak nastal zvrat. V květnu jsem se neplánovaně stěhoval do Prahy. Nad brněnskou Symfony komunitou tak zůstal viset velký otazník.</p>
+
+<p>Dozvěděl jsem se, že v Symfony dělá <a href="https://twitter.com/kutny">Jirka Koutný</a>. Ten mi řekl o <a href="http://srazy.info/prvni-zf-meetup-praha/5472">Zend srazu</a>. Tam jsem potkal dalších 10 lidí, které Symfony zajímá.</p>
+
+<p><em>Díky Jirko za první kontakt s Prahou! Hodně mě to nakoplo.</em></p>
+
+<p><br></p>
+
+<p>Pak mi nečekaně zavolal Martin Mayer, jestli to v Brně může převzít a jestli je to pro mě ok. Bylo to více než ok a Martin s kluky to tam vlastně organizují dodnes.</p>
+
+<p><em>Díky Martine za ten telefonát a za všechnu tvoji pomoc.</em></p>
+
+<p><br></p>
+
+<p>Na Zend srazu jsem potkal <a href="https://twitter.com/OndraM">Ondru Machuldu</a> z Jobs.cz, který se mého nápadu na Symfony komunitu chytnul. Naplánovali jsme první reálné kroky a vyrazili na cestu. Ondra přišel s tím, že 1. sraz by měl být až na podzim. Cože? Tak dlouho čekat? Ale dávalo to smysl, protože přes léto byla spousta lidí pryč. Ty 2 měsíce čekání, než se něco spustí, mě málem zabily. A taky jsem se trochu bál, že nás někdo předběhne.</p>
+
+<p><em>Díky Ondro za naučení trpělivosti, dodání odvahy a zábavné moderování srazů!</em></p>
+
+<h2 id="zrozen%C3%AD-1.-spole%C4%8Dn%C3%A9ho-m%C3%ADsta---web-symfony.cz">Zrození 1. společného místa - web Symfony.cz</h2>
+
+<p>Přes léto tak alespoň vznikly stránky. Přes doménu Symfony.cz jsem se dostal k <a href="http://www.defr.cz/">Dennisovi Fridrichovi</a>. Hned na prvním obědě jsem poznal, že jednou budeme dobří přátelé. A taky že jo - o pár měsíců později jsme spolu byli <a href="http://pariscon2015.symfony.com/">v Paříži na SymfonyConu</a>. Dennis dal dohromady <a href="http://www.symfony.cz">první verzi stránek</a>, která fakt měla šťávu.</p>
+
+<p><em>Díky Dennisi za dobrý vkus, investovaný čas a sestříhání nádherných záznamů ze srazů!</em></p>
+
+<h2 id="jak%C3%BD-byl-0.-sraz%3F">Jaký byl 0. sraz?</h2>
+
+<p>Přišlo září a 0. sraz - rozhodli jsme se, že to bude poslední čtvrtek v měsíci. Jako brněnská náplavka jsem v Praze neznal žádnou hospodu, už vůbec ne pro 20-30 lidí, které jsme čekali. Podaří se nám vůbec najít nějákou hospodu s takovou kapacitou, rychlým internetem a dobrým pivem?</p>
+
+<p><em>Tady patří velké díky <a href="https://www.martinhujer.cz/">Martinovi Hujerovi</a>, který mi nakonec pomohl první hospodu zamluvit.</em></p>
+
+<p><br></p>
+
+<p>Na sraz se nám přihlásilo přes 50 lidí. Co teď? Kam ty lidi dáme?</p>
+
+<p><em>Díky <a href="http://pepa.info/">Petře Pavle</a> za nalezení lepšího místa na poslední chvíli a záchranu 0. srazu - jinak bychom si asi seděli na klíně.</em></p>
+
+<h2 id="kdo-se-k-n%C3%A1m-je%C5%A1t%C4%9B-p%C5%99idal-na-cest%C4%9B-k-symfony-komunit%C4%9B%3F">Kdo se k nám ještě přidal na cestě k Symfony komunitě?</h2>
+
+<p>Už jsme docela slušně rozjetí, takže dál už jen stručně:</p>
+
+<ul>
+<li>Díky <a href="https://twitter.com/honzajavorek">Honzovi Javorkovi</a> za předání cenných 4letých zkušeností při řízení velkých komunit!</li>
+<li>Díky <a href="https://twitter.com/svecmichal">Michalovi Švecovi</a>, že mi vytrvale doporučoval seriál <a href="http://symfony.com/blog/create-your-own-framework-on-top-of-the-symfony-components">Create your own framework on top of the Symfony Components</a>, i když jsem mu první rok vůbec nerozuměl! </li>
+<li>Díky lidem z <a href="http://designeo.cz/">Designeo.cz</a>, <a href="http://etnetera.cz/">Etnetera.cz</a>, <a href="http://jobs.cz/">Jobs.cz</a>, <a href="http://skrz.cz/">Skrz.cz</a>, <a href="http://bandzone.cz/">Bandzone.cz</a> a <a href="http://shipito.cz/">Shipito.cz</a> za ujasnění si konceptu propagace firem, který jsme pak začali nabízet! </li>
+<li>Díky <a href="https://www.lmc.eu/">Lmc.eu</a> za první sraz v pořádné firmě s chutným rautem a vychlazeným pivem!</li>
+<li>Díky <a href="http://kvitekmedovy.rajce.idnes.cz/">Lucce</a> <a href="https://www.linkedin.com/in/patoprstalucia">Patoprsté</a> za profesionální fotky s rychlým dodáním! </li>
+<li>Díky <a href="https://www.shopsys.cz/">Shopsys.cz</a> za srdečnou spolupráci, organizaci pravidelných srazů v Ostravě a propagaci na <a href="http://www.phplive.cz/">PHPLive</a> a <a href="http://www.barcampostrava.cz/">ostravském BacCampu</a>!</li>
+<li>Díky <a href="https://twitter.com/jakubkulhan">Jakubovi Kulhánovi</a> za <a href="https://github.com/skrz">skvělé bundly</a> a ještě lepší talky o Symfony u nás!</li>
+<li>Díky <a href="https://twitter.com/skrzczdev">Skrz.cz Developers</a> za srdečnou podporu na sociálních sítích!</li>
+<li>Díky <a href="https://twitter.com/hassmanm">Martinovi Hassmanovi</a> za podporu při psaní <a href="https://www.zdrojak.cz/serialy/symfony-po-kruckach/">prvního seriálu na zdrojak.cz</a> a za jeho svatou trpělivost se všemi 10 autory!</li>
+<li>Díky <a href="https://twitter.com/iamchemix">Honzovi Černému</a> za inspiraci v Nette komunitě a za to, že dorazil na náš 1. sraz - byla to pro nás velká pocta!</li>
+<li>Díky <a href="https://twitter.com/petrnikolas">Petrovi Prokopovi</a> za <a href="https://www.facebook.com/events/628065150674904/">nastartování Symfony komunity v Hradci Králové</a>! </li>
+<li>Díky <a href="https://twitter.com/vasekpurchart">Vaškovi Purchartovi</a> za přínosný <a href="https://www.youtube.com/watch?v=f93mNBJ-IUA">talk o Optimalizaci Symfony na devu</a>!</li>
+<li>Díky <a href="https://www.michalspacek.cz/">Michovali Špačkovi</a> za vedení <a href="https://www.facebook.com/groups/modryslon">FB skupiny Modrý slon</a>, díky které jsme mohli udělat radost 5 lidem černým Symfony sloníkem až z daleké Paříže!</li>
+<li>Díky <a href="https://twitter.com/petr_vacha">Petrovi Váchovi</a>, že se po 5 letech v Nette vydal cestou Symfony a přišel s nápadem napsat o Symfony knížku!</li>
+<li>Díky <a href="https://www.linkedin.com/in/ka%C4%8Dka-bl%C3%A1hov%C3%A1-828677a6">Kačce Bláhové</a> za inspiraci a rozšíření obzorů, kam dál je možné komunitu vést!</li>
+<li>Díky <a href="https://twitter.com/klatys">Honzovi Klatovi</a> za nápad na Symfony foundation, za to, že se mnou půjde přednášet na <a href="http://devel.cz/konference">Devel konferenci</a>, a taky za to, že dává do kupy první českou Symfony konferenci!</li>
+<li>Díky <a href="https://twitter.com/matej_21">Davidovi Matějkovi</a>, že i když patří mezi nejaktivnější přispěvatele na Nette fóru, tak si ve svém srdci našel kus místa i pro Symfony!  </li>
+<li>Díky <a href="https://twitter.com/zemistr">Martinovi Zemanovi</a> za shánění speakerů, dodávání přednášek pro začátečníky, nápad využít <a href="https://www.sli.do/home">sli.do</a> a <a href="https://www.facebook.com/groups/ceska.symfony.komunita.prace">vytvoření skupiny na pracovní nabídky</a>!</li>
+<li>Díky <a href="http://www.knesl.com/">Jirkovi Kneslovi</a> za možnost jít školit Symfony do firem!</li>
+<li>Díky <a href="https://twitter.com/roxtri_cz">Nikole Ježkové</a> za zařizování prvního srazu v Českých Budějovicích!</li>
+<li>Díky <a href="https://www.vimvic.cz/">VímVíc.cz</a> a <a href="https://www.instagram.com/monikavrbova">Monice Vrbové</a> za <a href="https://www.facebook.com/symfonisti/videos/969858443063966/">krásné promo video</a>!</li>
+<li>Huge thanks to <a href="https://twitter.com/javiereguiluz">Javier Eguiluz</a> for great support in <a href="http://symfony.com/blog/category/a-week-of-symfony">Week of Symfony</a>!</li>
+</ul>
+
+<p>Díky <a href="https://www.linkedin.com/in/klaraponczova">Klárce Ponczové</a> za podporu při celém tom všem a marketingové love brand tipy. Díky, mé Zlato!</p>
+
+<p>A také díky mému synovi, Matyášovi Votrubovi, za to, že mě na tuhle cestu nevědomky vyslal svým nečekaným příchodem.</p>
+
+<h2 id="a-na-kom-to-te%C4%8F-teda-stoj%C3%AD%3F">A na kom to teď teda stojí?</h2>
+
+<p>Hlavně na vás! Protože nebýt tolika úžasných lidí, kteří jsou do Symfony zapálení, tak bych doteď v hospodě seděl sám :).</p>
+]]></content>
+        </entry>
+    </feed>
